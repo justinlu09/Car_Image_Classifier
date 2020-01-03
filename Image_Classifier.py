@@ -1,9 +1,6 @@
 import os
-from skimage import io
 from skimage.io import imread
 from skimage.transform import resize
-import time
-import sys
 from matplotlib import pyplot as plt
 
 
